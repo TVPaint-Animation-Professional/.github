@@ -21,7 +21,7 @@ The TVPaint Animation application features advanced bitmap drawing tools that si
 Beyond core animation tools, TVPaint Animation offers sophisticated camera movements, multiplane capabilities, and special effects that enhance the depth and production value of 2D animated projects. The TVPaint Animation software supports various export formats including video sequences, image sequences, and specialized formats for integration with other production pipelines. With continuous TVPaint Animation development introducing new features, performance optimizations, and workflow enhancements, this professional animation solution maintains its reputation as the gold standard for traditional 2D animation in the digital age.
 
 <div align="center">
-<img src="https://tvpaint.com/images/video/ctg.gif" width="auto">
+<img src="https://api.tvpaint.com/uploads/media/tvpaint-animation-12-nouveautes-2.png" width="auto">
 </div>
 
 <div align="center">
